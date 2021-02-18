@@ -7,9 +7,9 @@ It becomes really hard to remember all those passwords and create new ones for a
 Joseph Kahiga
 # Description
 This project lets a user :
-* 1 .save login credentials for any application
-* 2. add an app and then the program saves the credentials.
-*  3. delete an existing entry.
+* save login credentials for any application
+* add an app and then the program saves the credentials.
+* delete an existing entry.
 
 # Set-up and installation instructions
 You need to have the following installed
